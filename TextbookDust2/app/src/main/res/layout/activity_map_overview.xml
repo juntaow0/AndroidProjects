@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.otaliastudios.zoom.ZoomLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MapOverview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical|horizontal"
+    app:alignment="center"
+    app:animationDuration="250"
+    app:flingEnabled="false"
+    app:hasClickableChildren="false"
+    app:horizontalPanEnabled="true"
+    app:maxZoom="3.5"
+    app:maxZoomType="zoom"
+    app:minZoom="1.0"
+    app:minZoomType="zoom"
+    app:oneFingerScrollEnabled="true"
+    app:overPinchable="false"
+    app:overScrollHorizontal="false"
+    app:overScrollVertical="false"
+    app:scrollEnabled="true"
+    app:threeFingersScrollEnabled="true"
+    app:transformation="centerInside"
+    app:transformationGravity="auto"
+    app:twoFingersScrollEnabled="true"
+    app:verticalPanEnabled="true"
+    android:background="@color/colorSplash"
+    app:zoomEnabled="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/radar" />
+    </LinearLayout>
+</com.otaliastudios.zoom.ZoomLayout>

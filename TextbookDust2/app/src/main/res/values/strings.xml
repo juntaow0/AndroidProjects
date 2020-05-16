@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Textbook Dust 2</string>
+    <string name="utility_guide">Utility Guide</string>
+    <string name="strategies">Strategies</string>
+    <string name="details">Details</string>
+    <string name="utility_type">Utility Type:</string>
+    <string name="location">Location:</string>
+
+    <string-array name="nades_array">
+        <item>Any</item>
+        <item>Flash</item>
+        <item>Smoke</item>
+        <item>Incendiary</item>
+    </string-array>
+
+    <string-array name="nades_loc">
+        <item>Any</item>
+        <item>T spawn</item>
+        <item>Outside Long</item>
+        <item>A Long</item>
+        <item>A site</item>
+        <item>A short</item>
+        <item>Mid</item>
+        <item>CT Mid</item>
+        <item>CT Spawn</item>
+        <item>B Site</item>
+        <item>Tunnel</item>
+    </string-array>
+
+    <string name="best_strat">
+        "The author is not good enough to show you strategies on Dust 2.\n\n"
+        "You are required to make your own strategies.\n\n"
+        "However, no strategy is better than this one:"
+    </string>
+    <string name="show_strategy">SHOW STRATEGY</string>
+    <string name="map_overview">Map Overview</string>
+    <string name="gallery">Gallery</string>
+    <string name="apply">Apply</string>
+</resources>

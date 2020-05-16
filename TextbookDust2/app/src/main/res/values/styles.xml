@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="colorAccent">#FFEB3B</item>
+    </style>
+
+    <style name="MyTheme" parent="AppTheme">
+
+    </style>
+
+    <style name="MenuText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">2.9</item>
+        <item name="android:shadowDy">2.7</item>
+        <item name="android:shadowRadius">1.7</item>
+    </style>
+
+    <style name="NadeViewText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">2.9</item>
+        <item name="android:shadowDy">2.7</item>
+        <item name="android:shadowRadius">1.7</item>
+    </style>
+
+    <style name="MyButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/mybutton</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+</resources>
