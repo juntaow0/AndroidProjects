@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">!UltimateMinesweeper :(</string>
+    <string name="good_luck_and_have_fun">Good luck and have fun.</string>
+    <string name="mode_toggle">MODE: %1$s</string>
+    <string name="flags_count">FLAGS: %1$s</string>
+    <string name="button_restart">RESTART</string>
+    <string name="button_toggle_mode">TOGGLE MODE</string>
+    <string name="button_submit">SUBMIT</string>
+    <string name="mode_foot">FOOT</string>
+    <string name="mode_flag">FLAG</string>
+    <string name="default_count">3</string>
+    <string name="step_mine">You stepped on a mine!</string>
+    <string name="submit_win">You marked all mines!</string>
+    <string name="submit_lose">Take your time.</string>
+</resources>
