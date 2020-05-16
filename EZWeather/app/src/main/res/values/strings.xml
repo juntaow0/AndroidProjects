@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EZWeather</string>
+    <string name="title_activity_cities">ActivityCities</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_city_name_here">Enter City Name Here</string>
+    <string name="main_temp">%1$.1f°C</string>
+    <string name="humidity">Humidity: %1$.1f%%</string>
+    <string name="wind">Wind: %1$.1f km/h</string>
+    <string name="max_temp">Max. temp: %1$.1f°C</string>
+    <string name="min_temp">Min. temp: %1$.1f°C</string>
+    <string name="description">Condition: %1$s</string>
+    <string name="city_name">Budapest</string>
+    <string name="feels_like">Feels like: %1$.1f°C</string>
+    <string name="loading">Loading…</string>
+    <string name="city_error">City not found!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="img_host">http://openweathermap.org/img/wn/</string>
+    <string name="api_host">http://api.openweathermap.org</string>
+    <string name="api_key">fff0ffec25b0bab74a094b4f82dee50a</string>
+    <string name="warning">Don\'t press the marker!</string>
+    <string name="city_name_title">City Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="empty_field">Empty field!</string>
+</resources>
