@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Shoppy List</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="delete_list">DELETE LIST</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_category">Item category:</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="item_description">Item Description</string>
+    <string name="purchased">Purchased</string>
+    <string name="item_detail">DETAILS</string>
+    <string name="show_detail">Item DETAILS</string>
+    <string name="delete">DELETE</string>
+    <string name="why_do_you_need_this">why do you need this</string>
+    <string name="purchase_amount">Purchase Amount</string>
+    <string name="display_price">$%1$d</string>
+    <string name="display_quantity">Amount: %1$d</string>
+    <string name="default_price">114514</string>
+    <string name="default_quantity">1</string>
+    <string name="default_description">Too lazy to write anything.</string>
+    <string name="item_edit">EDIT</string>
+    <string name="edit_dialog">Edit Details</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="et_warn">This field can not be empty!</string>
+    <string name="list_clear">List cleared!</string>
+    <string name="item_descrip">Item Description:</string>
+    <string name="back">Back</string>
+    <string name="new_item">New Item</string>
+    <string-array name="category_array">
+        <item>CPU</item>
+        <item>Cooler</item>
+        <item>Motherboard</item>
+        <item>Memory</item>
+        <item>Storage</item>
+        <item>Video Card</item>
+        <item>Power Supply</item>
+        <item>Case</item>
+        <item>Monitor</item>
+        <item>Peripherals</item>
+        <item>Video Game</item>
+        <item>Waifu</item>
+
+    </string-array>
+</resources>
