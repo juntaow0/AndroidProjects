@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="title_activity_expense">Expense</string>
+    <string name="action_settings">Settings</string>
+    <string name="display_price">$%1$s</string>
+    <string name="current_balance">Current Balance: $%1$s</string>
+    <string name="default_balance">Current Balance: $0</string>
+    <string name="entry_name">Entry Name</string>
+    <string name="amount">Amount</string>
+    <string name="income">INCOME</string>
+    <string name="save">SAVE</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="hint_1234">1234</string>
+    <string name="pass_1234">1234</string>
+    <string name="ok">OK</string>
+    <string name="andwallet">AndWallet</string>
+    <string name="this_view_shows_your_current_balance">This view shows your current balance:</string>
+    <string name="sum_income">Income:</string>
+    <string name="sum_expense">Expense:</string>
+    <string name="sum">Balance:</string>
+    <string name="tv_entry_name">Entry name</string>
+    <string name="delete">Delete</string>
+    <string name="wrong_pin">Wrong PIN!</string>
+    <string name="can_not_be_empty">Cannot be empty!</string>
+    <string name="empty_field">Empty field!</string>
+</resources>
